@@ -1,0 +1,9 @@
+@echo off 
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
+taskkill /f /im explorer.exe
